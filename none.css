@@ -1,0 +1,82 @@
+body {
+  margin: 0px;
+  padding: 40px;
+  border: 1px solid #333;
+	}
+	
+.s1
+{
+  color:#0e2452 ;
+  font-family: "arial";
+  font-size:20pt;
+}
+.s2{
+  display: inline-block;
+  font-family: "arial";
+  text-align: left;
+  vertical-align: baseline;
+}
+.s3{
+  position: relative;
+  vertical-align: top;
+  padding-left: 40%;
+  top: -30px;
+  border-bottom: 1px dotted gray;
+}
+.s4{
+  position: relative;
+  vertical-align: top;
+  padding-left: 40%;
+  top: -50px;
+  border-bottom: 1px dotted gray;
+}
+
+.section-content {
+  text-align: left;
+  position:relative;
+  top:-30px;
+  font-family: "arial";
+ 
+}
+
+.cv-document {
+box-sizing: border-box;
+border: none;
+outline: 0;
+font-weight: inherit;
+font-style: inherit;
+
+text-decoration: none;
+margin: 0;
+padding: 0;
+width: 100%;
+font-family: arial, sans-serif, tahoma;
+font-size: 10pt;
+}
+ img
+ {
+  width: 113px;
+  height: 113px;
+ }
+ .class4
+ {
+  position:relative;
+  top: -230px;
+  left: 760px;
+ }
+.cv-page {
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+  text-decoration: none;
+  width: 900px;
+  min-height: 900px;
+  margin: 0 auto;
+  box-shadow: 0 0 1px rgba(0,0,0,.5);
+  background-color: #fff;
+  position: relative;
+
+  padding: 40px
+}
